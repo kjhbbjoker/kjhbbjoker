@@ -28,10 +28,8 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]  
  #20C997
  
-[![Velog](https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](github.com/Joowon0220/TODO-List)
 
- #20C997
- #20C997
 <br><br><br>
 
 ## 💫 m e 
