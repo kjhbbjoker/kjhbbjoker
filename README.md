@@ -26,15 +26,15 @@ Here are some ideas to get you started:
  [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)]
 <br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]  
- [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)]  
+
 
 
 
 <br><br><br>
 
 ## 💫 m e 
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://321coucou.tistory.com/)  [![Code Pen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/joowon0220) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.joowon@gmail.com)
-<br><br><br>
+ [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)]  
+ 
 
 
 ### 💌  t o d a y 
