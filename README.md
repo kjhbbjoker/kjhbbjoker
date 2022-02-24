@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]  
 
-[![Velog](https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white)]
 <br><br><br>
 
 ## 💫 m e 
