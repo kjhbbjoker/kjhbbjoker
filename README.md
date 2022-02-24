@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 </div>
   
+    <div align=center>
   
-  <div align=center>
 ![kjhbbjoker's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjhbbjoker&show_icons=true&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhbbjoker&layout=compact&&show_icons=true&theme=onedark)
