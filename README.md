@@ -1,4 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CodeGream🎨&fontSize=70)
 
+<div align=center>
+  
+  
 ![kjhbbjoker's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjhbbjoker&show_icons=true&theme=onedark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhbbjoker&layout=compact&&show_icons=true&theme=onedark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kjhbbjoker&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
