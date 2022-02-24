@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]  
  #20C997
  
- [![Velog](https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white)]  
- 
- <img src="https://img.shields.io/badge/텍스트-컬러코드?style=flat-square&logo=아이콘 이름&logoColor=white"/></a>&nbsp 
+[![Velog](https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 
+ #20C997
+ #20C997
 <br><br><br>
 
 ## 💫 m e 
